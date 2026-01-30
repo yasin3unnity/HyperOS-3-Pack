@@ -1,0 +1,6 @@
+[v7.0 Update]
+- Rilis perdana HyperOS 3 Pack untuk Tablet/Pad.
+- Perbaikan ikon Status Bar agar lebih presisi.
+- Penambahan desain Ikon Settings terbaru.
+- Optimalisasi performa sistem UI.
+- Fitur Auto-Update resmi diaktifkan.
