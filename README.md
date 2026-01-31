@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/yasin3unnity/HyperOS-3-Pack-2/main/logo.jpg" width="100%" alt="Banner">
+</p>
+
 # 🚀 HyperOS 3 Pack - Magisk Module
 
 ![Magisk](https://img.shields.io/badge/Magisk-Module-orange?style=for-the-badge&logo=android)
