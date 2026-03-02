@@ -1,3 +1,7 @@
+[v13 Update]
+- bugs fixed
+- only HyperOS 2
+
 [v12 Update]
 - New Icon style
 - major bug fixed
